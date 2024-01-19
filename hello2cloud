@@ -1,0 +1,9 @@
+[{
+	"description": "moco 快速开始示例",
+	"request": {
+		"uri": "/hello"
+	},
+	"response": {
+		"text": "Hello GitHub"
+	}
+}]
